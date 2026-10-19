@@ -1,0 +1,209 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(255, 255, 255, 0.785);
+
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(105, 241, 107, 0.785);
+    padding: 14px 20px;
+    background-image: url("images/HuGGeENt6kGyixe3hT9tnY.jpg");
+}
+
+.logo {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+}
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 30px;
+    padding: 10px 16px;
+    margin-left: 10px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+
+.menu a:hover {
+    background-color: #ffffff;
+    color: rgb(30, 10, 181);
+}
+
+#div1 {
+    border-radius: 15px 50px 30px 5px;
+    border: 2px solid green;
+    padding: 20px;
+    width: 200px;
+    height: 300px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+
+#div2 {
+    border-radius: 15px 50px 30px 5px;
+    border: 2px solid green;
+    padding: 20px;
+    width: 250px;
+    height: 200px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+#div3 {
+    background-image: url('images/ozone-layer-1-1024x551.jpg');
+    background-position: left top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 20px;
+    width: 45%;
+    height: auto;
+    margin: 10px;
+}
+
+.circle {
+    width: 100px;
+    height: 100px;
+    background-color: yellowgreen;
+    border-radius: 50%;
+}
+
+#container-div {
+    display: flex;
+}
+
+#response {
+    padding-bottom: 200px;
+    white-space: pre-wrap;
+    width: 45%;
+    overflow-wrap: break-word;
+}
+
+ul {
+    font-size: 30px;
+}
+
+img {
+    height: 500px;
+}
+
+.text>* {
+    font-size: 20px;
+}
+
+.content {
+    color: black;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    margin: 0;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.aboutimg {
+    display: flex;
+    flex-direction: row;
+}
+
+.contactform {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff6d;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.contactinfo {
+    width: 60%;
+}
+
+.h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p3 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.p5 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.info {
+    text-align: center;
+    background-color: #ffffff6d;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.coolstuff {
+    background-color: #ffffff6d;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.text {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.ehhinfo {
+    background-color:  #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.midinfo {
+    background-color:  #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.boringinfo {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.solutioninfo {
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
